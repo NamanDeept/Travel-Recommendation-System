@@ -1,5 +1,6 @@
 GROUP NAME : PROJECT GROUP 6
-MEMBERS: Aadya Mishra , Prateek Kumar Nayak , Kiran Kumar Datti , Ishan Arora , Vikrant Singh , Srikar Anand Yellapragada , Akshay Gupta , Naman Deept
+MEMBERS: Aadya Mishra , Prateek Kumar Nayak , Kiran Kumar Datti , Ishan Arora , Vikrant Singh , Srikar Anand Yellapragada , Akshay Gupta , Naman Deept.
+
 PROJECT NAME: Travel Recommendation Expert System
 
 PROJECT DESCRIPTION: 
@@ -21,36 +22,38 @@ A sample execution of the program is shown to help better understand the executi
 ------------------------ Travel Recommendation System ------------------------
 ------------------------------------------------------------------------------
 
-Enter Transport---------------(Air/Train/Road/Sea)
+Enter Transport           (Air/Train/Road/Sea)
 Road
-Enter Place Type-------------(Heritage/Religious/Adventure/Hill/Beach/Desert)
+Enter Place Type          (Heritage/Religious/Adventure/Hill/Beach/Desert)
 Heritage
-Enter Food Type------------(Indian/Continental/Chinese/Thai/Italian/Other)
+Enter Food Type           (Indian/Continental/Chinese/Thai/Italian/Other)
 Indian
-Enter Weather---------------(Hot/Cold/Moderate/Rainy)
+Enter Weather             (Hot/Cold/Moderate/Rainy)
 Hot
-Enter Duration---------------(under3days/3-5days/over5days)
+Enter Duration            (under3days/3-5days/over5days)
 under3days
-Enter Budget----------------(under20k/20k-50k/over50k)
+Enter Budget              (under20k/20k-50k/over50k)
 under20k
 
------------------------------------------------------------------------------
+
 Recommended place(s) to visit is/are-
------------------------------------------------------------------------------
 
-Jaisalmer
-Jodhpur
-Orchaa
+Jaisalmer, 
+Jodhpur, 
+Orchaa.
 
+------------------------------------------------------------------------------
 Software Installation :
+------------------------------------------------------------------------------
 
 CLIPS 6.3
 CLIPSIDE
 Java JDK 1.8
 CLIPSJNI
 
-HOW TO RUN: 
-
+ 
+----------------------------------------------------------------------------------
+HOW TO RUN:
 Open the CLIPSIDE and in the dialog window run these 4 commands as below in order :
 
 1.(clear)
@@ -65,6 +68,7 @@ Open
 2. Follow the steps as in GUI 
 3. It shows the recommended places to visit based on several parameters or you can enter place of your choice and our expert systems recommends similar place that you may like .
 
+---------------------------------------------------------------------------------------
 
 FILES USED:
 travelrecommendation.clp
@@ -72,4 +76,3 @@ facts.clp   --------------------------- contains all the facts required for the 
 newrule.clp --------------------------- contains rule for the expert system to recommend places based on input
 place.clp   --------------------------- contains rule for the expert system to recommend places based on an input place.
 
-README.txt
