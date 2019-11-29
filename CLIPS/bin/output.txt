@@ -1,0 +1,19 @@
+1 1 1 1 1 1
+Amritsar
+Allahabad
+1 1 0 1 1 1
+Allahabad
+Amritsar
+1 1 0 1 1 0
+Amritsar
+Allahabad
+1 1 0 1 0 0
+Allahabad
+Amritsar
+1 0 0 1 0 0
+Mahabalipuram
+Amritsar
+Orchha
+Jodhpur
+Jaisalmer
+Allahabad
