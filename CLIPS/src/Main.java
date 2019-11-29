@@ -107,7 +107,7 @@ public class Main extends JFrame {
                frame.add(Button2);
                frame.add(Title);
                //enter your filepath
-               frame.add(new JLabel(new ImageIcon("C:\\Users\\Akshay Gupta\\Desktop\\travelrecomm\\CLIPS\\travel2.png")));  
+               frame.add(new JLabel(new ImageIcon("\\travel2.png")));  
                Button1.addActionListener((ActionEvent e) -> {
                    OptionsWindow win = new OptionsWindow();
                    //throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
