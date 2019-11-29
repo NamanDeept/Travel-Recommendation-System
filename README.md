@@ -1,5 +1,5 @@
-GROUP NAME : PROJECT GROUP 6
-MEMBERS: Aadya Mishra , Prateek Kumar Nayak , Kiran Kumar Datti , Ishan Arora , Vikrant Singh , Srikar Anand Yellapragada , Akshay Gupta , Naman Deept.
+GROUP NAME : PROJECT GROUP 6  
+GROUP MEMBERS: Aadya Mishra , Prateek Kumar Nayak , Kiran Kumar Datti , Ishan Arora , Vikrant Singh , Srikar Anand Yellapragada , Akshay Gupta , Naman Deept.  
 
 PROJECT NAME: Travel Recommendation Expert System  
 
