@@ -24,9 +24,9 @@ public class Results {
 		try {
 			clips = new Environment();
 			clips.clear();
-			clips.load("C:\\Users\\Akshay Gupta\\Desktop\\travelrecomm\\CLIPS\\facts.clp");
-			mkf = new MakeNewFile(filter,"C:\\Users\\Akshay Gupta\\Desktop\\travelrecomm\\CLIPS\\newrule.clp","C:\\Users\\Akshay Gupta\\Desktop\\travelrecomm\\CLIPS\\mainrule.clp");
-			clips.load("C:\\Users\\Akshay Gupta\\Desktop\\travelrecomm\\CLIPS\\newrule.clp");
+			clips.load("\\facts.clp");
+			mkf = new MakeNewFile(filter,"\\newrule.clp","\\mainrule.clp");
+			clips.load("\\newrule.clp");
 			clips.reset();
 			int i=0;
 			for(i=0;i<6;i++)
