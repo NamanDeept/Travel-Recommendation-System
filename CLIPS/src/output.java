@@ -39,7 +39,7 @@ output(){
         jframe.add(button);
         jframe.setSize(800, 700);
 
-        jframe.add(new JLabel(new ImageIcon("C:\\Users\\Akshay Gupta\\Desktop\\travelrecomm\\CLIPS\\GettyImages-150127577-58f920153df78ca159d41100.jpg")));
+        jframe.add(new JLabel(new ImageIcon("..\\GettyImages-150127577-58f920153df78ca159d41100.jpg")));
                       button.setFont(button.getFont().deriveFont(24.0f));
                       button.addActionListener(new ActionListener(){  
                               public void actionPerformed(ActionEvent e){  
