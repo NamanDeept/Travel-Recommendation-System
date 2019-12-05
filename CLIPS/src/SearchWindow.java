@@ -23,8 +23,9 @@ public class SearchWindow {
 	try {
 		
 		Environment clips = new Environment();
-		clips.load("C:\\Users\\Akshay Gupta\\Desktop\\travelrecomm\\CLIPS\\facts.clp");
-		clips.load("C:\\Users\\Akshay Gupta\\Desktop\\travelrecomm\\CLIPS\\place.CLP");
+		//if the url doesn't run please put in the default system path inside the load function for clp files
+		clips.load("..\\CLIPS\\facts.clp");
+		clips.load("..\\CLIPS\\place.CLP");
 		clips.reset();
 		
 		String placename = s;
